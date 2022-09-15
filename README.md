@@ -65,10 +65,15 @@ The Jasmin basic structure is being generated including the constructor, fields,
 Also the limit of the stack and locals is calculated based on the instructions used in each method.
 
 # This project was done by:
+
 Inês Guimarães
+
 Mariana Monteiro
+
 Marcos Ferreira
+
 Tea Madzarac
 
-Also, with special appreciation for Mariana Monteiro.
+
+### Also, with special appreciation for Mariana Monteiro.
 
