@@ -1,6 +1,6 @@
 
 
-### This was done for the subject of ESOF in FEUP. Grade = 90%.
+### This was done for the subject of COMP in FEUP. Grade = 90%.
 
 # Summary
 
