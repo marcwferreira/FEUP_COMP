@@ -1,0 +1,20 @@
+import io;
+class Test {
+
+    public static void main(String[] args){
+
+    }
+    public int foo(){
+     int a;
+     int b;
+     int c;
+     a = 20;
+     b = 10;
+     if(a < b){
+       c  = a-1;
+     }else{
+       c = b-1;
+     }
+     return 0;
+    }
+}
